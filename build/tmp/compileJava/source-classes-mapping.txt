@@ -1,3 +1,4 @@
 GameWindow.java
  GameWindow
+ GameWindow$1
  GameWindow$GameField
